@@ -4,4 +4,31 @@ description: >-
   undefined
 
 
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: 
+
+key: 2f69014d29
+```
+
+The sheet titled "Data"contains responses of 800 individuals for a study conducted on the use of Aadhar Card.
+a) Given the variables at hand, you are required to find meaningful relations between these variables (please provide graphs and charts where applicable)
+b) Column AB to AF contain responses for  Likert scale based questions with the relevant codes mentioned in the codebook. Find an appropriate method of evaluating these questions and mention any relevant test of significance you use.
+c) Column AG, AH, AI record responses to comment based questions. Devise a method to meaningfully find context within these. 
+
+
+
+
+
+
+
+
+
+
+
+
 
